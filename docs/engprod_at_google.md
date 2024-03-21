@@ -1,7 +1,7 @@
 # Engineering Productivity @Google (Michael Bachman)
+`#summary/conference #engprod`
 
-#summary/conference #engprod
-Original: https://www.youtube.com/watch?v=ETtRxDEYeF4
+Original [video](https://www.youtube.com/watch?v=ETtRxDEYeF4)
 - - - 
 چیزی که کلا باعث سرعت داشتن اینا با وجود اسکیل و ۲۰ هزار مهندس بوده، engprod ئه
 خود این آقای بکمن ۱۴ سال ( تایم ویدئو می‌شه ۲۰ سال الآن ) گوگل بوده و تو تیم ۳۰۰ نفره‌ی اولیه، سرد و گرم گوگل رو چشیده.
@@ -59,3 +59,5 @@ Key Metrics of Productivity:
 > سر قصه‌ی کارایی که باید زودتر می‌کردیم، بحثای سخت‌افزاری و اندروید و این چیزاس ( خیلی نفهمیدم چی می‌گه )
 
 کلا می‌گه تو اورگمون هم PM اینا هم نداریم و خود مهندسا تلاش می‌کنن اونجور تجربه‌ای رو واسه بقیه بسازن.
+
+
