@@ -1,13 +1,16 @@
-site_name: obsidian-mkdocs template
-
+site_name: Meshkati Notes
+site_url: https://meshkati.github.io/publish/
+repo_name: meshkati/publish
+repo_url: https://github.com/meshkati/publish
 theme:
     name: 'material'
+    direction: rtl
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
+      primary: white
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -16,7 +19,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: grey
       accent: blue
       toggle:
         icon: material/toggle-switch
